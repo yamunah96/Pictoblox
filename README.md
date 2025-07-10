@@ -47,6 +47,7 @@ To run these projects, you need:
 | 🌐   | Smart Home Controller         | An IoT project to control appliances using sensors and Arduino.              | `iot/smart_home`           |
 | 📝   | Sentiment Analysis Tool       | Analyzes text sentiment (positive, negative, neutral) using NLP.             | `nlp/sentiment_analysis`   |
 | 🤖   | Obstacle-Avoiding Robot       | A robot using ultrasonic sensors to avoid obstacles, programmed in Python.   | `robotics/obstacle_avoider`|
+| 📔   | Python Projects                |Games using Python functions, conditions                                      | `python/maze_game`         |           
 
 *Note*: Detailed instructions, hardware requirements, and Python scripts are in each project’s folder.
 
@@ -55,7 +56,7 @@ Contributions are welcome! To contribute:
 1. Fork this repository.
 2. Create a branch: `git checkout -b feature/new-project`.
 3. Add your project in the relevant category folder with a `README.md`.
-4. Commit changes: `git commit -m 'Add new project: Project Name'`.
+4. Commit changes: `git commit -m 'Add new project: Project Name'.
 5. Push: `git push origin feature/new-project`.
 6. Open a pull request.
 
